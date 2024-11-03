@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244542662601",
+    "project_id": "loonigo",
+    "storage_bucket": "loonigo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244542662601:android:140ccc19fda3d7c04bea18",
+        "android_client_info": {
+          "package_name": "com.unspecificventures.loonigo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIGHpqUbPYWxsHBNi1TXWIdDxjCcwyNNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
